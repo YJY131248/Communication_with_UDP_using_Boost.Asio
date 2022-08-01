@@ -24,4 +24,4 @@ Client-side and server-side communication Demo based on UDP communication princi
 服务器端：
 
 
-![image](https://user-images.githubusercontent.com/62458821/182094897-9be63cc3-e81a-43e7-864a-3c9589bf0a1b.png)
+![image](https://user-images.githubusercontent.com/62458821/182095300-24ea7fea-3549-458f-aa1c-b73c95f37fbb.png)
